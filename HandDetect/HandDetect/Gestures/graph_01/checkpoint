@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:/Machine Learning/Gestures/checkpoint/Gestures_AlexNet.ckpt"
+all_model_checkpoint_paths: "F:/Machine Learning/Gestures/checkpoint/Gestures_AlexNet.ckpt"
